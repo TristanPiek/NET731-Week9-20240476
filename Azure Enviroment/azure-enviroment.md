@@ -10,7 +10,9 @@ Tristan Piek
 ## Diagram of Architecture
 
 
-![Architecture Diagram](Diagram/architecture-diagram.drawio.png)
+
+
+![Architecture Diagram](Diagram/architecture-diagram.png)
 
 
 
